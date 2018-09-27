@@ -104,21 +104,14 @@ AUTH_PASSWORD_VALIDATORS = [
 
 # ipware packege to getting IP address of user
 
-IPWARE_META_PRECEDENCE_LIST = (
-    'HTTP_CF_CONNECTING_IP',
-    'HTTP_X_FORWARDED_FOR', # client, proxy1, proxy2
-    'HTTP_CLIENT_IP',
-    'HTTP_X_REAL_IP',
-    'HTTP_X_FORWARDED',
-    'HTTP_X_CLUSTER_CLIENT_IP',
-    'HTTP_FORWARDED_FOR',
-    'HTTP_FORWARDED',
-    'HTTP_VIA',
-    'REMOTE_ADDR',
+
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+STATIC_URL = '/static/'
+
+# Extra places for collectstatic to find static files.
+STATICFILES_DIRS = (
+    os.path.join(BASE_DIR, 'static'),
 )
-
-
-
 
 # Internationalization
 # https://docs.djangoproject.com/en/2.0/topics/i18n/
