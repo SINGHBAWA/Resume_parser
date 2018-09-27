@@ -10,7 +10,6 @@
       <change beforePath="$PROJECT_DIR$/parservenv/lib/python2.7/site-packages/setuptools-40.4.3.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/parservenv/lib/python2.7/site-packages/setuptools-40.4.3.dist-info/RECORD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/parservenv/lib/python2.7/site-packages/setuptools/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/parservenv/lib/python2.7/site-packages/setuptools/_vendor/pyparsing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/parservenv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/parservenv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,8 +79,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="167" lean-forward="true" selection-start-line="167" selection-end-line="167" />
+            <state relative-caret-position="228">
+              <caret line="57" column="22" lean-forward="true" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -503,7 +502,28 @@
       <option name="project" value="LOCAL" />
       <updated>1538070162347</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="&quot;changed python version&quot;">
+      <created>1538070330874</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1538070330874</updated>
+    </task>
+    <task id="LOCAL-00019" summary="&quot;changed python version&quot;">
+      <created>1538070431116</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1538070431116</updated>
+    </task>
+    <task id="LOCAL-00020" summary="&quot;changed python version&quot;">
+      <created>1538070591372</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1538070591372</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -519,7 +539,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40780142" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="6" visible="true" weight="0.28113878" />
+      <window_info anchor="bottom" id="Terminal" order="6" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
@@ -955,8 +975,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="167" lean-forward="true" selection-start-line="167" selection-end-line="167" />
+        <state relative-caret-position="228">
+          <caret line="57" column="22" lean-forward="true" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
         </state>
       </provider>
     </entry>
