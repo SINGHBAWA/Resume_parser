@@ -146,7 +146,6 @@ Werkzeug==0.14.1
 whitenoise==3.3.1
 wrapt==1.10.11
 wstools==0.4.8
-xkit==0.0.0
 xlrd==1.1.0
 XlsxWriter==1.0.5
 zeep==2.5.0
