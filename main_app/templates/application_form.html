@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% load bootstrap4 %}
+{% block content %}
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-8">
+			<div class="row">
+				<div class="col-md-8">
+					<form role="form" id="usrform" name="usrform" action="/upload_details/" method="POST" enctype="multipart/form-data">
+                        {% csrf_token %}
+                        <div class="form-group">
+							<label for="condidateName">
+								Name
+							</label>
+							<input type="text" class="form-control" required id="condidateName" name="Name"/>
+						</div>
+						<div class="form-group">
+							<label for="Email__c">
+								Email
+							</label>
+							<input type="email" class="form-control" id="Email__c" required name="Email__c" />
+						</div>
+                        <div class="form-group">
+							<label for="Contact_Number__c">
+								Contact Number
+							</label>
+							<input type="tel" class="form-control" id="Contact_Number__c" pattern="[0-9]+" required name="Contact_Number__c" />
+						</div>
+                        <div class="form-group">
+                          <label for="Designation__c">Designation</label>
+                          <select class="form-control" id="Designation__c" required name="Designation__c">
+                              {% for item in designations%}
+                              <option>{{item}}</option>
+                              {% endfor %}
+                          </select>
+                        </div>
+                        <div class="form-group">
+							<label for="id_resumeFile">
+								File input
+							</label>
+							<input type="file" class="form-control-file" id="id_resumeFile" required  name="resumeFile" />
+							<p class="help-block">
+								Upload your resume here
+							</p>
+						</div>
+						<button type="submit" class="btn btn-primary">
+							Submit
+						</button>
+					</form>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+{% endblock %}
