@@ -10,7 +10,6 @@
       <change beforePath="$PROJECT_DIR$/parservenv/lib/python2.7/site-packages/setuptools-40.4.3.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/parservenv/lib/python2.7/site-packages/setuptools-40.4.3.dist-info/RECORD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/parservenv/lib/python2.7/site-packages/setuptools/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/parservenv/lib/python2.7/site-packages/setuptools/_vendor/pyparsing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/parservenv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/parservenv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,8 +79,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="114" column="11" lean-forward="true" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
+            <state relative-caret-position="361">
+              <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
             </state>
           </provider>
         </entry>
@@ -566,7 +565,21 @@
       <option name="project" value="LOCAL" />
       <updated>1538071620748</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="&quot;changed python version&quot;">
+      <created>1538071798155</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1538071798155</updated>
+    </task>
+    <task id="LOCAL-00028" summary="&quot;changed python version&quot;">
+      <created>1538071914885</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1538071914885</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1018,8 +1031,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="114" column="11" lean-forward="true" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
+        <state relative-caret-position="361">
+          <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
         </state>
       </provider>
     </entry>
