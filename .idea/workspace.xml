@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5edbca03-91db-495e-a18f-fb337114e93d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/resume_parser.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/parservenv/lib/python2.7/site-packages/bootstrap4/widgets.py" beforeDir="false" afterPath="$PROJECT_DIR$/parservenv/lib/python2.7/site-packages/bootstrap4/widgets.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/parservenv/lib/python2.7/site-packages/django_bootstrap4-0.0.7.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/parservenv/lib/python2.7/site-packages/django_bootstrap4-0.0.7.dist-info/RECORD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/parservenv/lib/python2.7/site-packages/pip-18.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/parservenv/lib/python2.7/site-packages/pip-18.0.dist-info/RECORD" afterDir="false" />
@@ -55,17 +51,17 @@
           <entry key="html" value="686" />
           <entry key="json" value="1" />
           <entry key="procfile" value="14" />
-          <entry key="py" value="3537" />
-          <entry key="txt" value="53" />
+          <entry key="py" value="3540" />
+          <entry key="txt" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="646" />
           <entry key="JSON" value="1" />
-          <entry key="PLAIN_TEXT" value="74" />
+          <entry key="PLAIN_TEXT" value="84" />
           <entry key="Properties" value="40" />
-          <entry key="Python" value="3727" />
+          <entry key="Python" value="3730" />
         </counts>
       </usages-collector>
     </session>
@@ -75,15 +71,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resume_parser/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+            <state relative-caret-position="217">
+              <caret line="79" column="38" selection-start-line="79" selection-start-column="38" selection-end-line="79" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -119,10 +119,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/procfile">
+        <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state>
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -140,7 +140,7 @@
         <entry file="file://$PROJECT_DIR$/resume_parser/wsgi.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#229#238#0" expanded="true" />
               </folding>
@@ -190,6 +190,8 @@
       <find>SFType</find>
       <find>ip</find>
       <find>location</find>
+      <find>virt</find>
+      <find>apt</find>
     </findStrings>
     <replaceStrings>
       <replace>)</replace>
@@ -216,10 +218,11 @@
         <option value="$PROJECT_DIR$/main_app/utils/sf_api.py" />
         <option value="$PROJECT_DIR$/main_app/utils/ip_location_utils.py" />
         <option value="$PROJECT_DIR$/main_app/views.py" />
-        <option value="$PROJECT_DIR$/procfile" />
         <option value="$PROJECT_DIR$/resume_parser/wsgi.py" />
-        <option value="$PROJECT_DIR$/resume_parser/settings.py" />
         <option value="$PROJECT_DIR$/runtime.txt" />
+        <option value="$PROJECT_DIR$/procfile" />
+        <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/resume_parser/settings.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
@@ -409,11 +412,68 @@
       <option name="project" value="LOCAL" />
       <updated>1538065619817</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&quot;changed python version&quot;">
+      <created>1538065855905</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1538065855905</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&quot;changed python version&quot;">
+      <created>1538066214482</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1538066214482</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;changed python version&quot;">
+      <created>1538066960403</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1538066960403</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&quot;changed python version&quot;">
+      <created>1538067175190</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1538067175190</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&quot;changed python version&quot;">
+      <created>1538067806817</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1538067806817</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&quot;changed python version&quot;">
+      <created>1538068242075</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1538068242075</updated>
+    </task>
+    <task id="LOCAL-00011" summary="&quot;changed python version&quot;">
+      <created>1538069239389</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1538069239389</updated>
+    </task>
+    <task id="LOCAL-00012" summary="&quot;changed python version&quot;">
+      <created>1538069353679</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1538069353679</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="692" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.271035" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -424,7 +484,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40780142" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="6" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Terminal" order="6" visible="true" weight="0.28113878" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
@@ -827,27 +887,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resume_parser/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#229#238#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume_parser/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
         </state>
       </provider>
     </entry>
@@ -858,8 +904,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resume_parser/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="79" column="38" selection-start-line="79" selection-start-column="38" selection-end-line="79" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
