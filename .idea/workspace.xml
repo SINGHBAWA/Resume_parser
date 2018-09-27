@@ -52,14 +52,14 @@
           <entry key="json" value="1" />
           <entry key="procfile" value="14" />
           <entry key="py" value="3540" />
-          <entry key="txt" value="63" />
+          <entry key="txt" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="646" />
           <entry key="JSON" value="1" />
-          <entry key="PLAIN_TEXT" value="84" />
+          <entry key="PLAIN_TEXT" value="86" />
           <entry key="Properties" value="40" />
           <entry key="Python" value="3730" />
         </counts>
@@ -80,8 +80,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            <state relative-caret-position="256">
+              <caret line="167" lean-forward="true" selection-start-line="167" selection-end-line="167" />
             </state>
           </provider>
         </entry>
@@ -482,7 +482,28 @@
       <option name="project" value="LOCAL" />
       <updated>1538069867865</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="&quot;changed python version&quot;">
+      <created>1538069954779</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1538069954779</updated>
+    </task>
+    <task id="LOCAL-00016" summary="&quot;changed python version&quot;">
+      <created>1538070046936</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1538070046936</updated>
+    </task>
+    <task id="LOCAL-00017" summary="&quot;changed python version&quot;">
+      <created>1538070162347</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1538070162347</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -934,8 +955,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="256">
+          <caret line="167" lean-forward="true" selection-start-line="167" selection-end-line="167" />
         </state>
       </provider>
     </entry>
