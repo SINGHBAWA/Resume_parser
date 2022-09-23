@@ -81,7 +81,7 @@ Pillow==5.1.0
 pipenv==11.9.0
 pluggy==0.6.0
 ply==3.11
-protobuf==3.0.0
+protobuf==3.18.3
 psycopg2==2.7.3.2
 psycopg2-binary==2.7.4
 py==1.5.3
